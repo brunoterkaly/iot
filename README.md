@@ -20,10 +20,13 @@ Azure IoT Hub lets you connect, monitor, and manage billions of IoT assets. Azur
 
 **Automate IoT device provisioning and registration to accelerate your IoT deployment** - Speed up your IoT deployment by registering and provisioning devices with zero touch in a secure and scalable way.
 
-Hybrid Scenarios - Take advantage of IoT Edge to make hybrid cloud and edge IoT solutions a reality. 
+**Hybrid Scenarios** - Take advantage of IoT Edge to make hybrid cloud and edge IoT solutions a reality.
 
-Enable artificial intelligence - and other advanced analytics at the edge, reduce your IoT solution costs, ease development efforts, and operate devices offline or with intermittent connectivity.
+**Enable artificial intelligence** - And other advanced analytics at the edge, reduce your IoT solution costs, ease development efforts, and operate devices offline or with intermittent connectivity.
 
-## IoT Products
+## IoT Products.
 
 ![image](./images/iot-products.png)
+
+
+
